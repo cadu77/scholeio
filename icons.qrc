@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/escolar.png</file>
+    <file>icons/imgs/scholeio.png</file>
+    <file>icons/imgs/scholeio.gif</file>
+    <file>icons/menu.png</file>
+  </qresource>
+</RCC>

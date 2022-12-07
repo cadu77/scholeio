@@ -1,0 +1,14 @@
+SELECT nt.ra AS ra_nota, 
+	   al.nome AS aluno, 
+	   portugues, matematica, ciencias, geografia 
+FROM nota nt INNER JOIN aluno al ON ( nt.ra = al.ra) ; 
+	
+
+INSERT INTO nota VALUES (1528,3,6,4,8);
+
+
+
+	 
+	 
+UPDATE nota
+SET portugues = 0;	 

@@ -1,0 +1,10 @@
+python -m pip install openpyxl 
+python -m pip install pandas
+python.exe -m pip install --upgrade pip
+pyside6-uic cadastro.ui -o ui_main.py
+pyside6-rcc menu.qrc -o icons_rc.py
+pip3 install requests --upgrade
+pip install psycopg2 ou pip3 install psycopg2   
+pip install qt-material
+pip install Pyside6    
+python -m pip install requests ou python3 -m pip install requests --upgrade
